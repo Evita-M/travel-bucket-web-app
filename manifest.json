@@ -1,0 +1,22 @@
+{
+    "short_name": "Travel Bucket",
+    "name": "I want to travel a lot, but can I remember everything?",
+    "description": "Future trips manager",
+    "icons": [
+      {
+        "src": "favicon-32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "img/bg.png",
+        "type": "image/png",
+        "sizes": "1629x1123"
+      }
+    ], 
+    "start_url": "/?source=pwa",
+    "background_color": "#7cd2ec",
+    "display": "fullscreen",
+    "scope": "/",
+    "theme_color": "#7cd2ec"
+  }
